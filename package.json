@@ -1,0 +1,10 @@
+{
+  "name": "cave-lord-throne",
+  "version": "1.0.0",
+  "private": true,
+  "description": "석굴 군주의 옥좌 — mobile-first dungeon crawler web app",
+  "scripts": {
+    "start": "npx --yes serve public -l 4173",
+    "dev": "npx --yes serve public -l 4173"
+  }
+}

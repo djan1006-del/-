@@ -1,0 +1,19 @@
+{
+  "name": "석굴 군주의 옥좌",
+  "short_name": "석굴 군주",
+  "description": "파티 기반 던전 크롤러",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9ebee",
+  "theme_color": "#d9a300",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
